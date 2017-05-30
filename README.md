@@ -28,3 +28,8 @@
   * This will be the IDE we use for SQL development. 
   * Do **NOT** download the package with the JDK included. It'll just cause a mess...
 * [Maven](http://mirrors.advancedhosters.com/apache/maven/maven-3/3.5.0/binaries/apache-maven-3.5.0-bin.zip)
+  * Extract to your C drive
+  * After extracting, set the following environment variables
+    * M2_HOME -> set to the root folder of maven
+    * M2 -> set to %M2_HOME%\bin
+    * Add %M2% to your 'path' variable
