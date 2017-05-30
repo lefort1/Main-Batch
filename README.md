@@ -5,4 +5,4 @@
 * [Git Team Basics](https://youtu.be/oFYyTZwMyAg)
 ## Environment Setup
 * [Java IDE](https://spring.io/tools/sts/all)
-..* test
+  * test
