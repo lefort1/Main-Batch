@@ -20,6 +20,9 @@
   * Download and setup enthuware for 1Z0-808 JA+ V8
 * [JDK](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
   * x64 for 64 bit systems, x86 for 32 bit systems
+  * Set environment variables
+    * set 'path' to have directory of 'bin' folder for JDK (eg ..\java\jdk_version\bin)
+    * set JAVA_HOME -> \java\jdk_version
 * [Java IDE](https://spring.io/tools/sts/all)
   * Make sure you get the version that corresponds to your operating system! (eg 64 bit vs 32 bit)
 * [Oracle11g](http://www.oracle.com/technetwork/database/database-technologies/express-edition/downloads/index.html)
@@ -33,3 +36,5 @@
     * M2_HOME -> set to the root folder of maven
     * M2 -> set to %M2_HOME%\bin
     * Add %M2% to your 'path' variable
+* [Hacker Rank](https://www.hackerrank.com/)
+  * Good source of practice. Use it often for practice. Of course, if you still have assigned work to do, that work takes precedence.
