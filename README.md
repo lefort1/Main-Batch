@@ -23,7 +23,7 @@
   * Set environment variables
     * set 'path' to have directory of 'bin' folder for JDK (eg ..\java\jdk_version\bin)
     * set JAVA_HOME -> \java\jdk_version
-* [Java IDE](https://spring.io/tools/sts/all)
+* [Java IDE - Spring Tool Suite](https://spring.io/tools/sts/all)
   * Make sure you get the version that corresponds to your operating system! (eg 64 bit vs 32 bit)
 * [Oracle11g](http://www.oracle.com/technetwork/database/database-technologies/express-edition/downloads/index.html)
   * This will be the dominant SQL database that we use. Restricted to Windows OS only
